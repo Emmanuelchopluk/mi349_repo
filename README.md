@@ -1,3 +1,13 @@
 # mi349_repo
 
-#changes 
+Contents:
+
+index.html
+
+MSU football image
+
+MSU football image
+
+README
+
+
